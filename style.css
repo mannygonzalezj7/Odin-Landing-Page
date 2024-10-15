@@ -203,6 +203,11 @@ header {
     cursor: pointer;
 }
 
+.sign-up-button-2:active {
+    background-color: #004494;
+    transform: scale(0.975);
+}
+
 .footer{
     display: flex;
     background-color: #1F2937;
